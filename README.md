@@ -1,3 +1,5 @@
+#### NOTE: SOME FILES CONTAIN MALWARE. EXECUTE FILES IN VM'S ONLY!
+
 ## 🗂️ File Structure
 
 ```
